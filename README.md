@@ -1,8 +1,8 @@
-A Simple Reader for Knowledge Atoms from ![DBSKILL](https://github.com/dontbesilent2025/dbskill)
+A Simple Reader for Knowledge Atoms from [DBSKILL](https://github.com/dontbesilent2025/dbskill)
 
-Read or download: ![[https://boomup-cat.github.io/dbskill-atom-reader/]](https://boomup-cat.github.io/dbskill-atom-reader/index.html)([https://boomup-cat.github.io/dbskill-atom-reader/](https://boomup-cat.github.io/dbskill-atom-reader/index.html))
+Read or download: [https://boomup-cat.github.io/dbskill-atom-reader/]](https://boomup-cat.github.io/dbskill-atom-reader/index.html)([https://boomup-cat.github.io/dbskill-atom-reader/](https://boomup-cat.github.io/dbskill-atom-reader/index.html))
 
-Knowledge atoms from ![dbskill](https://github.com/dontbesilent2025/dbskill).
+Knowledge atoms from [dbskill](https://github.com/dontbesilent2025/dbskill).
 
 
 ## License
